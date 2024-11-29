@@ -4,7 +4,8 @@ outline: deep
 
 # 开源协议
 该整合包以及其koishi-plugin-xiuxian_bot插件使用 **GPLv3** 开源协议，使用请遵循开源协议条款。
-::: details GPL v3
+::: details GPLv3 没事别打开（x
+# 不是说了别打开!!!
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
