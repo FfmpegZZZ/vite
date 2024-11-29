@@ -15,7 +15,7 @@ export default defineConfig({
         text: '快速开始',
         items: [
           { text: '部署', link: '/start' },
-          { text: '关于', link: '/api-examples' }
+          { text: '关于', link: '/adout' }
         ]
       },
       {
