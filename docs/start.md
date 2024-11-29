@@ -52,7 +52,17 @@ Set-ExecutionPolicy RemoteSigned
 :::
 
 ## 运行该项目
+ 前往[这里](https://githun.com)下载整合包
+ ::: details 国内用户请点击这里
+ https://gitee.com
+ :::
 
+###
+在整合包内打开终端，运行以下命令
+```sh
+yarn start
+```
+## 访问控制台
 # 文档持续更新中，敬请期待
 <div style="display:none">
 **Input**
