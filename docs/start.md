@@ -35,6 +35,21 @@ yarn -v
 ```sh
 yarn config set registry https://registry.npmmirror.com
 ```
+::: tip
+部分 Windows 用户可能会发现以下错误 ([参考链接](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_execution_policies))：
+
+```text
+yarn：无法加载文件 yarn.ps1，因为在此系统上禁止运行脚本。
+```
+
+此时请以管理员身份重新运行终端，并输入下面的命令：
+
+```sh
+Set-ExecutionPolicy RemoteSigned
+```
+
+之后就可以正常使用 yarn 了。
+:::
 
 **Input**
 
