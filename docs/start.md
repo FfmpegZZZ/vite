@@ -1,10 +1,14 @@
-# Markdown Extension Examples
+# 部署
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+由于本项目是 **Koishi** 聊天机器人整合包，所以同样支持 [Koishi](https://koishi.chat) 官方所支持的所有部署方式。
 
-## Syntax Highlighting
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
+## 模板项目（推荐）
+
+::: danger
+注意 模板项目并非 Koishi 所推荐的用户使用的部署方式，所以你也不能用此部署方式在Koishi用户群获取支持
+:::
+
 
 **Input**
 
