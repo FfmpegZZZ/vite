@@ -17,8 +17,13 @@ export default defineConfig({
           { text: '部署', link: '/start' },
           { text: '关于', link: '/api-examples' }
         ]
+      },
+      {
+        text: '使用方法',
+        items: [
+          { text: '开发中',link: '/user'}
+        ]
       }
-      
     ],
     editLink: {
       pattern: 'https://github.com/XiuXianBot/XiuXianDoc/tree/main/docs/:path',
