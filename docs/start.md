@@ -5,7 +5,7 @@
 
 ## 模板项目（推荐）
 
-::: danger
+::: danger 注意
 注意 模板项目并非 Koishi 所推荐的用户使用的部署方式，所以你也不能用此部署方式在Koishi用户群获取支持
 :::
 
@@ -15,6 +15,27 @@
 #### 下载安装包
 首先我们前往 [Node.js](https://nodejs.org/zh-cn) 的官方网站：
 ![alt text](.\image\Nodejs.png)
+点击下载你想要的版本，推荐安装更加稳定的 **长期支持版本（LTS）**
+::: details Windwos用户可直接点击直链下载对应安装包
+https://nodejs.org/dist/v22.11.0/node-v22.11.0-x64.msi
+:::
+随后，运行下载好的安装包，根据提示完成整个安装流程即可。
+
+#### 安装包管理器
+Node.js自带名为 [npm](https://www.npmjs.com/) 的包管理器，但是我们更加推荐使用更为强大的yarn作为包管理器。
+输入以下命令安装yarn
+```sh
+npm i -g yarn
+```
+安装完成之后，输入以下命令查看yarn版本
+```sh
+yarn -v
+```
+由于网络环境原因，中国大陆境内的服务器在安装过程中可能遇到网络错误，因此我们推荐配置镜像源
+```sh
+yarn config set registry https://registry.npmmirror.com
+```
+
 **Input**
 
 ````md
