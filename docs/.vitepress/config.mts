@@ -8,7 +8,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '快速上手', link: '/start' }
+      { text: '快速上手', link: '/start' },
+      { text: 'Koishi', link: 'https://koishi.chat'}
     ],
     sidebar: [
       {
@@ -26,7 +27,7 @@ export default defineConfig({
       }
     ],
     editLink: {
-      pattern: 'https://github.com/XiuXianBot/XiuXianDoc/tree/main/docs/:path',
+      pattern: 'https://github.com/Ffmpegzzz/vite/tree/main/docs/:path',
       text: '在 GitHub 上编辑此页面'
   },
 
