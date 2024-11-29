@@ -10,7 +10,11 @@
 :::
 
 ### 安装Node.Js
+ Koishi 需要 [Node.js](https://nodejs.org/zh-cn) (最低 v18，推荐使用 LTS) 运行环境，你需要自己安装它。
 
+#### 下载安装包
+首先我们前往 [Node.js](https://nodejs.org/zh-cn) 的官方网站：
+![alt text](.\image\Nodejs.png)
 **Input**
 
 ````md
