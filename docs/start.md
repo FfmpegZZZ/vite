@@ -52,7 +52,7 @@ Set-ExecutionPolicy RemoteSigned
 :::
 
 ## 运行该项目
- 前往[这里](https://githun.com)下载整合包
+ 前往[这里](https://github.com)下载整合包
  ::: details 国内用户请点击这里
  https://gitee.com
  :::
