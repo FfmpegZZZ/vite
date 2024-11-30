@@ -250,6 +250,8 @@ You may publish this translation, modified or unmodified, only under the terms a
 参考：[繁体中文译本] https://www.gnu.org/licenses/translations.html
 :::
 
+----------
+
 # 开发者
 ***排名不分先后***
 
