@@ -253,9 +253,13 @@ You may publish this translation, modified or unmodified, only under the terms a
 ## 开发者
 排名不分先后
 **[言神](https://github.com/orgs/XiuXianBot/people/XLGys)**
+
 **[smm](https://github.com/orgs/XiuXianBot/people/smmcat)**
+
 **[九之川](https://github.com/jiuzhichuan)**
+
 **[Ffmpeg](https://github.com/orgs/XiuXianBot/people/FfmpegZZZ)**
+
 <div style="display:none">
 This page demonstrates usage of some of the runtime APIs provided by VitePress.
 
