@@ -52,7 +52,7 @@ Set-ExecutionPolicy RemoteSigned
 :::
 
 ### 运行该项目
- 前往[这里](https://github.com)下载整合包
+ 前往 [这里](https://github.com) 下载整合包
  ::: details 国内用户请点击这里
  https://gitee.com
  :::
@@ -94,7 +94,15 @@ Docker 部署开发中，暂不支持直接docker部署。
 请下载 https://aka.ms/vs/17/release/vc_redist.x64.exe 安装VC运行库
 :::
 
+#### 导入本项目整合包
+ 前往 [这里](https://github.com) 下载整合包
+ ::: details 国内用户请点击这里
+ https://gitee.com
+ :::
 
+ 在电脑右下角托盘出找到 Koishi
+ ![data](.\image\desktop-data.png)
+ 点击 高级 > 打开数据文件夹
 
 
 # 文档持续更新中，敬请期待
