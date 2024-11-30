@@ -251,7 +251,8 @@ You may publish this translation, modified or unmodified, only under the terms a
 :::
 
 ## 开发者
-排名不分先后
+***排名不分先后***
+
 **[言神](https://github.com/orgs/XiuXianBot/people/XLGys)**
 
 **[smm](https://github.com/orgs/XiuXianBot/people/smmcat)**
