@@ -5,7 +5,7 @@
 
 ## 模板项目（推荐）
 
-::: danger 注意
+::: danger 警告
 注意 模板项目并非 Koishi 所推荐的用户使用的部署方式，所以你也不能用此部署方式在Koishi用户群获取支持
 :::
 
@@ -51,7 +51,7 @@ Set-ExecutionPolicy RemoteSigned
 之后就可以正常使用 yarn 了。
 :::
 
-## 运行该项目
+### 运行该项目
  前往[这里](https://github.com)下载整合包
  ::: details 国内用户请点击这里
  https://gitee.com
@@ -62,6 +62,29 @@ Set-ExecutionPolicy RemoteSigned
 ```sh
 yarn start
 ```
+## Docker部署
+
+::: tip
+Docker 部署开发中，暂不支持直接docker部署。
+:::
+
+## Koishi Desktop
+### Windows
+#### 下载Koishi Desktop
+* <U>[安装包 (.msi)](https://k.ilharp.cc/win.msi)</U>
+* <U>[更多版本](https://github.com/koishijs/koishi-desktop/releases)</U>
+ 
+ #### 安装
+ 通过安装包安装 Koishi 是最推荐的安装方式，安装程序会自动处理大部分问题。一般情况下你都应该选择这种方式。
+ ![示例]()
+ 前往[这里](https://github.com)下载整合包
+ ::: details 国内用户请点击这里
+ https://gitee.com
+ :::
+
+在右下角托盘处找到 Koishi
+
+
 
 # 文档持续更新中，敬请期待
 <div style="display:none">
