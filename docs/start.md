@@ -65,7 +65,6 @@ yarn start
 
 
 
-# 文档持续更新中，敬请期待
 <div style="display:none">
 **Input**
 
