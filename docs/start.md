@@ -77,7 +77,7 @@ Docker 部署开发中，暂不支持直接docker部署。
  #### 安装
  通过安装包安装 Koishi 是最推荐的安装方式，安装程序会自动处理大部分问题。一般情况下你都应该选择这种方式。
 
- ![示例](.\docs\image\desktop-install.png)
+ ![示例](.\image\desktop-install.png)
 
 双击安装包并一路点按「Next」，等待安装过程结束，你便可以在「开始」菜单中找到 Koishi 了。
 ::: tip
