@@ -250,7 +250,12 @@ You may publish this translation, modified or unmodified, only under the terms a
 参考：[繁体中文译本] https://www.gnu.org/licenses/translations.html
 :::
 
-# 文档施工中
+## 开发者
+排名不分先后
+**[言神](https://github.com/orgs/XiuXianBot/people/XLGys)**
+**[smm](https://github.com/orgs/XiuXianBot/people/smmcat)**
+**[九之川](https://github.com/jiuzhichuan)**
+**[Ffmpeg](https://github.com/orgs/XiuXianBot/people/FfmpegZZZ)**
 <div style="display:none">
 This page demonstrates usage of some of the runtime APIs provided by VitePress.
 
@@ -268,7 +273,7 @@ const { theme, page, frontmatter } = useData()
 ### Theme Data
 <pre>{{ theme }}</pre>
 
-### Page Data
+### Page Datas
 <pre>{{ page }}</pre>
 
 ### Page Frontmatter
