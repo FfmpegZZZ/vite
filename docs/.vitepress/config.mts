@@ -15,14 +15,21 @@ export default defineConfig({
       {
         text: '快速开始',
         items: [
-          { text: '部署', link: '/start' },
-          { text: '关于', link: '/adout' }
+          { text: '模板项目', link: '/start' },
+          { text: 'Koishi-Desktop', link: '/startdesktop-windwos' },
+          { text: 'Docker', link: '/startdocker' }
         ]
       },
       {
         text: '使用方法',
         items: [
           { text: '开发中',link: '/user'}
+        ]
+      },
+      {
+        text: ' ',
+        items:[
+          { text: '关于',link: '/adout'}
         ]
       }
     ],
