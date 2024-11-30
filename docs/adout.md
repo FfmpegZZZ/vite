@@ -1,8 +1,9 @@
 ---
 outline: deep
 ---
-
-# 开源协议
+# 关于
+关于 仙灵Bot 的相关信息可以从这里找到。
+## 开源协议
 该整合包以及其koishi-plugin-xianling_bot插件使用 **GPLv3** 开源协议，使用请遵循开源协议条款。
 ::: details 开源协议非官方中文译本 ~~没事别打开~~
  
@@ -252,7 +253,7 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 ----------
 
-# 开发者
+## 开发者
 ***排名不分先后***
 
 **[言神](https://github.com/XLGys)**
