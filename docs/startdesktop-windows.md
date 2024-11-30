@@ -1,4 +1,5 @@
 # Koishi Desktop
+如果你觉得使用模板项目过复杂，你也可以使用官方推荐的 Koishi desktop
 ## Windows
 ### 下载Koishi Desktop
 * [安装包 (.msi)](https://k.ilharp.cc/win.msi)
