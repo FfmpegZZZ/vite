@@ -266,7 +266,8 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 ## 玩家共创
 
-**诗雨秋叶（QQ：1140071341）** **荒（QQ：3382104143）**
+**诗雨秋叶（QQ：1140071341）**
+**荒（QQ：3382104143）**
 
 <div style="display:none">
 This page demonstrates usage of some of the runtime APIs provided by VitePress.
