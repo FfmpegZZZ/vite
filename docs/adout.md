@@ -270,6 +270,12 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 **荒（QQ：3382104143）**
 
+**吴勉（QQ：3521014082）**
+
+**凝汐（BiliBili UID：10497508）**
+
+**柴尘子（QQ：122950758）**
+
 <div style="display:none">
 This page demonstrates usage of some of the runtime APIs provided by VitePress.
 
