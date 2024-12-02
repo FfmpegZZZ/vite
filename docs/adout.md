@@ -266,6 +266,8 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 ## 玩家共创
 
+许多玩家在测试中为仙灵Bot做出了较大贡献，我们在此 ***特别鸣谢***:
+
 **诗雨秋叶（QQ：1140071341）**
 
 **荒（QQ：3382104143）**
@@ -275,6 +277,7 @@ You may publish this translation, modified or unmodified, only under the terms a
 **凝汐（BiliBili UID：10497508）**
 
 **柴尘子（QQ：122950758）**
+
 
 <div style="display:none">
 This page demonstrates usage of some of the runtime APIs provided by VitePress.
