@@ -278,6 +278,16 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 **柴尘子（QQ：122950758）**
 
+## 鸣谢
+
+开发中我们直接或间接使用了以下 Koishi 插件
+
+**smmcat-galmake**
+**smmcat-localstorage**
+**xiuxian**
+**asaka-fortune**
+**Koishi 预装的插件**
+
 
 <div style="display:none">
 This page demonstrates usage of some of the runtime APIs provided by VitePress.
