@@ -290,7 +290,7 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 **asaka-fortune**
 
-**Koishi 预装的插件**
+**Koishi 预装的插件等**
 
 
 <div style="display:none">
