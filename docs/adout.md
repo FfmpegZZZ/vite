@@ -283,9 +283,13 @@ You may publish this translation, modified or unmodified, only under the terms a
 开发中我们直接或间接使用了以下 Koishi 插件
 
 **smmcat-galmake**
+
 **smmcat-localstorage**
+
 **xiuxian**
+
 **asaka-fortune**
+
 **Koishi 预装的插件**
 
 
