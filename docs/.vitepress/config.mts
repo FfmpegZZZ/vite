@@ -17,8 +17,10 @@ export default defineConfig({
         text: '快速开始',
         items: [
           { text: '模板项目', link: '/start' },
-          { text: 'Koishi-Desktop', link: '/startdesktop-windows' },
-          { text: 'Docker', link: '/startdocker' }
+          { text: 'Windwos', link: '/startdesktop-windows' },
+          { text: 'Linux', link: '/startdesktop-linux'},
+          { text: 'MacOS', link: '/startdesktop-macos'},
+          { text: '容器', link: '/startdocker' }
         ]
       },
       {
