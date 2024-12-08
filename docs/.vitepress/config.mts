@@ -9,7 +9,8 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '快速上手', link: '/start' },
-      { text: 'Koishi', link: 'https://koishi.chat'}
+      { text: 'Koishi', link: 'https://koishi.chat'},
+      { text: '服务器运行状态', link: '/status'}
     ],
     sidebar: [
       {
