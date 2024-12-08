@@ -1,4 +1,4 @@
-## Windows
+# Windows
 ### 下载Koishi Desktop
 * [安装包 (.msi)](https://k.ilharp.cc/win.msi)
 * [更多版本](https://github.com/koishijs/koishi-desktop/releases)
