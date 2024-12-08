@@ -32,7 +32,8 @@ export default defineConfig({
       {
         text: ' ',
         items:[
-          { text: '关于',link: '/about'}
+          { text: '关于',link: '/about'},
+          { text: '服务器运行状态',link: '/status'}
         ]
       }
     ],
