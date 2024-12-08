@@ -1,1 +1,1 @@
-<iframe src="https://xl.sparkle.icu" style="width: 1200px; height: 800px; border: 0"></iframe>
+<iframe src="https://xl.sparkle.icu" style="width: 1200px; height: 880px; border: 0"></iframe>
